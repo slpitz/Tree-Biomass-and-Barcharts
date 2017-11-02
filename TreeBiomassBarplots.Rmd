@@ -28,3 +28,15 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## So...Bad News...I lied.
+
+In our previous assignment, I left out some parts of the ANOVA to keep things simple. I lied. 
+
+Insert image.
+
+I'm sorry. Please take me back. Actually we're stuck together, so you dont have a choice. So let's get this over with.
+
+
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
